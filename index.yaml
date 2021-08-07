@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nodes-sts:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-07T14:38:20.7571177+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 2d269b5e61ecf04c5bf9349b9bdbf076755fbafb5e6f3fae785c332287aba314
+    name: nodes-sts
+    type: application
+    urls:
+    - nodes-sts-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-08-07T14:38:20.7550842+09:00"
